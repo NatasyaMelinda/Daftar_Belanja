@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "471450971825",
+    "firebase_url": "https://daftar-belanja-harian-31f70.firebaseio.com",
+    "project_id": "daftar-belanja-harian-31f70",
+    "storage_bucket": "daftar-belanja-harian-31f70.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:471450971825:android:83f775562ab940ad7bfc90",
+        "android_client_info": {
+          "package_name": "com.example.daffa.daftarbelanja"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "471450971825-qjlf34e2rianp52ha69v4hoh2r4lnbuv.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAX6KMl5GzyhUKFv3CNbrprx_3fAdNaTw8"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "471450971825-qjlf34e2rianp52ha69v4hoh2r4lnbuv.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
